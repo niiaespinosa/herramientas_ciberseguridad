@@ -3,3 +3,7 @@
 [Kahoot sombre modelo OSI](https://kahoot.it/challenge/03519863?challenge-id=b2de6969-11de-4450-80ab-2992ce38afaf_1783560773546)
 
 ### Juega un poco para aprender sobre redes
+
+### Pon en práctica tus conocimientos con este juego de rompe la piñata ciberseguridad!
+[Juego Piñata Ciberseguridad Redes y aplicaciones entre pares](https://view.genially.com/6a4ef8a8bfc2d9739672af04)
+
