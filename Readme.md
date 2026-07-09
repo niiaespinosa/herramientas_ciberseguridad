@@ -1,7 +1,9 @@
 # Proyecto: Inteligencia Colectiva - Ciberseguridad
 
 ## Reto
-Diseñar una solución que pueda facilitar su aprendizaje en ciberseguridad.
+Diseñar una solución que pueda facilitar su aprendizaje en ciberseguridad. Aquí encontrarán distintas herramientas para poner en práctica sus conocimientos.
+Hay algunos juegos y cuestionarios, los links se encuentran en archivos MarkDown, entre los que encontramos un Kahoot, juegos e información resumida.
+Este es su espacio, si tienen alguna sugerencia para compartir y apoyar a otras en su aprendizaje, son bienvenidas!
 
 ---
 
