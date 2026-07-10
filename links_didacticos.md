@@ -9,3 +9,6 @@
 
 ## Con este crucigrama pon en práctica tus conocimientos sobre protocolos de transporte!
 https://canva.link/2d0p8li5cjh1xn7 
+
+## Aprende las clasificaciones de IPs jugando
+https://rosebud.ai/play/cartas-de-ip
